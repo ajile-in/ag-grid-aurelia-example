@@ -1,4 +1,4 @@
-# aurelia-ag-grid-example
+# ag-grid-aurelia-example
 Example of using ag-grid with Aurelia Framework
 
 1. AgGrid - www.ag-grid.com
